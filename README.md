@@ -168,4 +168,3 @@ This project is licensed under the MIT License.
 
 ---
 
-This README file provides a comprehensive guide on how to use the `SqlDb` class, including installation, usage, and an example.
